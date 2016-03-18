@@ -3,7 +3,7 @@
 const sf = require('sf');
 const chalk = require('chalk');
 const _ = require('lodash');
-const formattingUtils = require('cause-utils/formatting');
+const formattingUtils = require('cause-utils/dist/formatting');
 
 
 function main(step, context, config, input, done) {
